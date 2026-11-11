@@ -1,0 +1,68 @@
+body {
+     margin: 0;
+     font-family: Arial, sans-serif;
+     background: #f2f2f2;
+     color: #222;
+}
+
+header {
+     background: #0b6623;
+     color: white;
+     text-align: center;
+     padding: 30px;
+}
+        
+
+header h1 {
+    margin: 0;
+    font-size: 40px;
+}
+
+nav {
+    background: #084d1b;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-weight: bold;
+}
+
+.banner {
+    text-align: center;
+    padding: 50px 20px;
+    background: white;
+}
+
+.banner h2 {
+    font-size: 30px;
+    color: #0b6623;
+}
+
+.conteudo {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+.card {
+    background: white;
+    padding: 25px;
+    margin-bottom: 20px;
+    border-radius: 12px;
+    box-shadow: 0 3px 10px #bbb;
+}
+
+.card h2 {
+    color: #0b6623;
+}
+
+footer {
+    background: #084d1b;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
